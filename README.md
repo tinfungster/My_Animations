@@ -6,3 +6,5 @@ My own YouTube channel: https://www.youtube.com/channel/UC-hmiJ2XUzk3bPeOB7Bd36Q
 ##### My first animation!
 
 <p align="center"><img src ="/HelloDaddy.gif" /></p>
+
+<p align="center"><img src ="/Me.mp4" /></p>
