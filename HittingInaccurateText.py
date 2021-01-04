@@ -2,7 +2,7 @@
 
 from manimlib.imports import *
 
-class Test(Scene):
+class HittingInaccurateText(Scene):
     def construct(self):
         vector = Vector(3 * RIGHT)
         runtime = 5
